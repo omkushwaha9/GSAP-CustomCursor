@@ -1,6 +1,5 @@
 # GSAP CustomCursor
 
-
 <h2>
 GSAP
 </h2>
@@ -13,7 +12,9 @@ GSAP stands for GreenSock Animation Platform. It is a robust JavaScript library 
 About this project
 </h2>
 
-This project features an innovative animation of a line designed to separate two pages. The line behaves dynamically, akin to a guitar string. When the cursor approaches the line, it is magnetically attracted towards the cursor. Conversely, as the cursor moves away, the line automatically returns to its original position with a bouncing animation, resembling the motion of a guitar string. This interactive element adds a visually appealing and engaging effect to the user interface.
+The CustomCursor project introduces an enhanced cursor experience within a webpage. This project adds a secondary cursor that follows the primary cursor with a delay of 0.6 seconds, although this delay can be adjusted to 0 seconds if desired. When the primary cursor moves, the secondary cursor trails behind, creating a visually engaging effect.
+
+Additionally, as the primary cursor moves over an image, the secondary cursor expands to four times its original size. This enlarged cursor can display text within it, offering a unique and interactive way to highlight or annotate images. This feature not only enhances the visual appeal but also improves the user experience by providing dynamic and context-sensitive interactions.
 
 <h1>
 by OM KUSHWAHA
